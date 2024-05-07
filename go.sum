@@ -1,0 +1,4 @@
+github.com/ashupednekar/gotcp v0.0.0-20240505092414-d1cfa1b035db h1:/N8zPFM1k1AxveBmjJ3Z4VPtTJUm+l0WphFxPc8k6/I=
+github.com/ashupednekar/gotcp v0.0.0-20240505092414-d1cfa1b035db/go.mod h1:mEmywQJAeAHJBdVRQm86n4A1qRzlwDkfJ6sHqneXaT0=
+github.com/go-python/gopy v0.4.10 h1:Ec3x+NTSzLsw9f6FTdDLwQCQlmlNmJIu4J6nSnyugqE=
+github.com/go-python/gopy v0.4.10/go.mod h1:zMV/gSSYa9u/8Zp0WYR+L/z+kOIqIUtMg/a1/GRy5uw=
